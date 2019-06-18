@@ -1,1 +1,1 @@
-alert('hi!');//foo
+alert('hi!');
